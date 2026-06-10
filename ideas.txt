@@ -1,0 +1,6 @@
+Website Portfolio Ideas
+
+- Add dark mode
+- Add project gallery
+- Improve navigation menu
+- Add contact form
